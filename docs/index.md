@@ -5,3 +5,6 @@
 
 ## Bread
 - [Soft Baguettes](/bread/SoftBaguettes)
+
+## Smoked Meat
+- [Brisket]()
