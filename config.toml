@@ -1,6 +1,6 @@
-baseURL = "https://4h.frankschmidt.ca"
+baseURL = "https://recipes.frankschmidt.ca"
 languageCode = "en-us"
-title = "4H Computer Program"
+title = "Recipes"
 themesDir = "themes"
 theme = "hugo-book"
 BookMenuBundle = '/menu'
