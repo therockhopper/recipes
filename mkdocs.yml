@@ -3,3 +3,4 @@ site_url: https://recipes.frankschmidt.ca
 theme: material 
 nav:
   - Home: index.md
+  - "Mac and Cheese": pasta/SmokedGoudaMacandCheese.md

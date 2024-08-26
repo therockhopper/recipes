@@ -1,4 +1,4 @@
 # Recipes 
 
 ## Pasta
-- [Smoked Gouda Mac and Cheese](/SmokedGoudaMacAndCheese)
+- [Smoked Gouda Mac and Cheese](/pasta/SmokedGoudaMacandCheese)
