@@ -11,16 +11,11 @@
 - [ ] 1 ½ cups cheddar cheese
 
 ## Instructions
-
-Cook the noodles. Bring a large pot of salted water to a boil and cook macaroni noodles according to package directions and drain.
-
-Make the sauce. Heat a 12 inch cast iron skillet over medium heat. Melt 1/2 cup of butter and whisk in the flour until a smooth, thin paste forms. Then whisk in the mustard powder.
-
-Carefully pour in the half and half and bring the mixture up to a boil while whisking. Reduce the heat and whisk in the cream cheese until smooth. Whisk in the cheddar cheese and Gouda cheese and stir until melted.
-
-Combine the noodles and sauce. Turn off the heat and pour in the cooked macaroni noodles. Stir gently until the noodles are coated by the cheese sauce. Serve immediately.
-
+1. Cook macaroni, drain.
+2. In a skillet, melt butter, whisk in flour and mustard powder.
+3. Add half and half, bring to a boil. Reduce heat, whisk in cream cheese until smooth.
+4. Stir in Gouda and cheddar until melted.
+5. Combine with macaroni, mix well, and serve.
 
 ### Sources
 - [https://heygrillhey.com/smoked-gouda-mac-and-cheese/#wprm-recipe-container-11716](https://heygrillhey.com/smoked-gouda-mac-and-cheese/#wprm-recipe-container-11716)
-
